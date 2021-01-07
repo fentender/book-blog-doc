@@ -1,5 +1,7 @@
 # BookBlog_Doc
 >个人博客地址: https://blog.csdn.net/qq_38781909/article/details/112072404
+Client地址: https://github.com/fentender/book-blog-client
+Server地址: https://github.com/fentender/book-blog-server
 
 本仓库为Book Blog博客的项目文档。本项目制作了一个前后端独立开发与部署的Book Blog博客。
 
